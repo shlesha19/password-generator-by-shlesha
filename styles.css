@@ -14,19 +14,19 @@ body {
 }
 
 .inputbox {
-  position:relative;
+  position:relati;
   width:450px;
   height:300px;
 }
 
 .inputbox h2 {
-  font-size: 25px ;
+  font-size: 45px ;
   color: #333 ;
 }
 
 .inputbox input {
   
-  height :60px;
+  height :150px;
   border:none;
   margin:15px 0 20px;
   outline:none;
