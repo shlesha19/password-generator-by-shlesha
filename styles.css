@@ -16,6 +16,7 @@ body {
 .inputbox {
   position:relative;
   width:450px;
+  height:300px;
 }
 
 .inputbox h2 {
